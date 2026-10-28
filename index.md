@@ -6,7 +6,7 @@ layout: homepage
 
 I am a political sociologist working at the **Max Planck Institute for Political and Social Science** in the department of Inequality, Transformation and Conflict. Broadly speaking, my research focuses on how people develop their political attitudes based on media sources, biographical experiences, or current representations of past transformation processes. I use a variety of methods such as longitudinal and cross-sectional survey data anaylsis, experiments, text-as-data approaches as well as qualitative content analysis and group discussions.
 
-My work has appeared in European Societies, Socius, Cologne Journal of Sociology and Social Psychology, and Zeitschrift für Soziologie. Some of my research article were covered by major German media outlets such as Deutschlandfunk oder Frankfurter Allgemeine Zeitung. 
+MMy work has appeared in [European Societies](https://doi.org/10.1162/euso_a_00030), [Socius](https://doi.org/10.1177/23780231261476528), the [Cologne Journal of Sociology and Social Psychology](https://doi.org/10.1007/s11577-023-00894-3), and [Zeitschrift für Soziologie](https://doi.org/10.1515/zfsoz-2025-2015). Some of my research articles have also been covered by major German media outlets, including [Deutschlandfunk](https://www.deutschlandfunk.de/neue-studie-groesserer-demokratieverdruss-bei-anhaengern-des-ddr-regimes-100.html) and the [Frankfurter Allgemeine Zeitung](https://www.faz.net/aktuell/wissen/geist-soziales/nicht-alle-deutschen-nehmen-unterschiede-zwischen-ost-und-west-wahr-19709990.html).
 
 
 ## Research Topics

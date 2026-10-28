@@ -7,14 +7,15 @@ email: julian.heide@ips.mpg.de
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Political Sociology, Social Change, Transformations, Attitude Formation and Media
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+description: Political Sociologist with a focus on transformations, climate change and attitude formation. 
+canonical: https://julianheide.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.de/citations?user=Cfe0lcsAAAAJ&hl=de
 cv_link: assets/files/CV.pdf
 bluesky: https://bsky.app/profile/julianheide.bsky.social
+orcid: https://orcid.org/0009-0005-9268-0887
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
