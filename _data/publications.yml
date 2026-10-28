@@ -1,22 +1,37 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Generation Reunification, Generation COVID? Visualizing Formative Events in Germany
+    authors:  Thomas Lux, <strong>Julian Heide</strong>
+    conference: Socius: Sociological Research for a Dynamic World
+    doi: https://doi.org/10.1177/23780231261476528
+    
+  - title: Der lange Schatten der DDR? Zum Zusammenhang von ehemaliger Systemnähe und aktuellen politischen Orientierungen von Ostdeutschen
+    authors:  Steffen Mau, Thomas Lux, <strong>Julian Heide</strong>
+    conference: Zeitschrift für Soziologie, 55(2), 117–134, 2026.
+    doi: https://doi.org/10.1515/zfsoz-2026-3003
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Mediale Trigger. Emotionen und Argumente in deutschen Pressekommentaren
+    authors: <strong>Julian Heide</strong>
+    conference_short: Zeitschrift für Soziologie
+    conference: Zeitschrift für Soziologie, 54(2), 238–256, 2025.
+    doi: https://doi.org/10.1515/zfsoz-2025-2015
+
+  - title: Polarizing social figures? Climate activists in German media and popular discourse
+    authors: <strong>Julian Heide</strong>
+    conference: European Societies, 27(5), 959–991, 2025.
+    doi: https://doi.org/10.1162/euso_a_00030
+
+  - title: Ost- und Westdeutsche für immer? Zu Wahrnehmungen von Unterschieden und Konflikten zwischen Ost- und Westdeutschen
+    authors: Steffen Mau, Thomas Lux, <strong>Julian Heide</strong>
+    conference: Kölner Zeitschrift für Soziologie und Sozialpsychologie, 76(1), 1–23, 2024.
+    doi: https://doi.org/10.1007/s11577-024-00949-z
+
+  - title: Testfall Armut. Zum Zusammenhang von Ungleichheitseinstellungen und sozialer Lage
+    authors: <strong>Julian Heide</strong>
+    conference: Kölner Zeitschrift für Soziologie und Sozialpsychologie, 75(2), 117–142, 2023.
+    doi: https://doi.org/10.1007/s11577-023-00894-3
+
+  - title: Home Ownership, Socio-political Attitudes and Region. A Study on Socio-Political Preferences among Homeowners and Tenants in Germany
+    authors: <strong>Julian Heide</strong>
+    conference: Zeitschrift für Sozialreform, 67(2), 153–182, 2021.
+    doi: https://doi.org/10.1515/zsr-2021-0006
