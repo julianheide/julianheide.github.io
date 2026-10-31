@@ -72,6 +72,25 @@
         </a>
         {% endif %}
 
+        {% if site.bluesky %}
+        <a style="margin: 0 5px 0 0"
+          href="{{ site.bluesky }}"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Bluesky">
+          <i class="fa-brands fa-bluesky"></i>
+        </a>
+        {% endif %}
+        
+        % if site.orcid %}
+        <a style="margin: 0 5px 0 0"
+          href="{{ site.orcid }}"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="ORCID">
+          <i class="ai ai-orcid"></i>
+        </a>
+        {% endif %}
         {% if site.github_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
           <i class="fab fa-github"></i>
